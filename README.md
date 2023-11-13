@@ -10,6 +10,12 @@
 # Link to app
 * [https://dogclassifier-efficientnet.streamlit.app/](https://playingcardclassifier-efficientnet.streamlit.app/)https://playingcardclassifier-efficientnet.streamlit.app/
 
+# How to use the app?
+## Step 1: Upload the image of a playing card
+![image](https://github.com/ongaunjie1/playing_card_classifier/assets/118142884/872e834f-bfe1-479b-97e1-6dc502ff50fd)
+
+## Step 2: Click on the classify button
+![image](https://github.com/ongaunjie1/playing_card_classifier/assets/118142884/37f92aeb-0f5c-4d7e-8430-b903b7a9d580)
 
 
 
